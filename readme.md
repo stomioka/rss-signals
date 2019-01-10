@@ -1,7 +1,7 @@
 # Prediction of User Movements in Heterogeneous Indoor Environments using radio signal strength index
 
 A small wireless sensor network (WSN) comprised of 4 anchors placed on the corner of two rooms and a mote attached to the subjects were used to collect RSS.
-RSS data exchanged between the mote and the anchors were collected at 4 Hz in three different room settings.
+RSS data exchanged between the mote and the anchors were collected at 8 Hz in three different room settings.
 
 ![](images/motionsensors2.png)
 
